@@ -1,0 +1,2 @@
+INSERT INTO USUARIOS(ID, USERNAME, PASSWORD, BIOGRAFIA) VALUES
+(10L, "Adri122", "282bnj", "Soy un chico bla bla bla...");
